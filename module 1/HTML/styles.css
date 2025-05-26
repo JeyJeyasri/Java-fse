@@ -1,0 +1,31 @@
+/* Header styles */
+#mainHeader {
+  font-size: 2.5rem;
+}
+
+/* Welcome banner */
+#welcomeBanner {
+  background-color: #e6f0ff;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Special offer section */
+.special-offer {
+  color: red;
+  font-weight: bold;
+  border: 2px dashed red;
+  padding: 10px;
+  margin: 20px 0;
+}
+
+/* Gallery images */
+img {
+  border: 2px solid #ccc;
+  padding: 5px;
+}
+
+/* Confirmation */
+#confirmation {
+  font-size: 1.2rem;
+}
